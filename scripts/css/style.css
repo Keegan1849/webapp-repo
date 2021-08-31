@@ -1,5 +1,5 @@
 body{
-    background-color: ;
+    background-color: rgb(255, 255, 255);
     background-image: url("");
     background-position: center;
 }
@@ -31,4 +31,26 @@ li.linav a.active{
 }
 li.linav a:hover{
     background-color: darkslateblue;
+}
+span.subtitle{
+    font-size: 13pt;
+    color:rgb(58, 66, 187);
+    font-family: verdana;
+}
+span.maintitle{
+    font-size: 18pt;
+    color:rgb(58, 66, 187);
+    font-family: verdana;
+}
+a.nav{
+    font-size: 12pt;
+    color:rgb(0, 0, 0)
+    font-family: verdana;
+    text-decoration: none;
+}
+a.nav:hover{
+    font-size: 14pt;
+    color:rgb(255, 0, 255)
+    font-family:verdana;
+    text-decoration:none;
 }
