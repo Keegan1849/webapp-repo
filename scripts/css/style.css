@@ -4,7 +4,7 @@ body{
     background-position: center;
 }
 ul.ulnav{
-    border-radius: 5px;
+    border-radius: 1.1%;
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -34,12 +34,12 @@ li.linav a:hover{
 }
 span.subtitle{
     font-size: 13pt;
-    color:rgb(0, 0, 0);
+    color:#bfbfbf;
     font-family: verdana;
 }
 span.maintitle{
     font-size: 18pt;
-    color:rgb(0, 0, 0);
+    color:#bfbfbf;
     font-family: verdana;
 }
 a.nav{
@@ -47,30 +47,34 @@ a.nav{
     color:rgb(0, 0, 0)
     font-family: verdana;
     text-decoration: none;
+    color: #bfbfbf;
 }
 a.nav:hover{
     font-size: 14pt;
     color:rgb(255, 0, 255)
-    font-family:verdana;
+    font-family: verdana;
     text-decoration:none;
 }
 
 #page_wrapper{
-    border-radius: 5px;
+    border-radius: 1.1%;
     border: 2px solid #333333;
     padding: 10px; 
-    height: 800px;
-    width: 700px;
-    background: #b69d74;
+    height: 83%;
+    width: 37%;
+    background: #000033;
+    box-shadow: 10px 10px 5px;
 }
 p.p_content{
     font-size: 12pt;
     color: #000000;
     font-family: verdana;
-    backgrond-color: #999999;
+    background-color: #bfbfbf;
     padding: 5px;
-    border-radius: 3px;
+    border-radius: 1.1%;
     border: 2px solid #333333;
+    box-shadow: 5px 5px 5px;
+
 }
 span.font1{
     font-size: 20pt;
@@ -89,8 +93,24 @@ span.standout{
     position: absolute;
     width: 55%; 
     height: 80%; 
-    background-color: #b69d74;
+    background-color: #000033;
     top: 5%; 
     right: 5%; 
-    border-radius: 3px;
+    border-radius: 1.1%;
+    box-shadow: 10px 10px 5px;
+}
+#myHeader {
+    background-color: #002b80;
+    color: black;
+    padding: 40px;
+    text-align: center;
+    height: 675px;
+    width: 600px;
+    box-shadow: 10px 10px 5px;
+    } 
+span.vert_bar{
+        color:#bfbfbf;
+}
+p.p1{
+    color:#bfbfbf;
 }
