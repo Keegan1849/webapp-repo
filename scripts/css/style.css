@@ -98,19 +98,60 @@ span.standout{
     right: 5%; 
     border-radius: 1.1%;
     box-shadow: 10px 10px 5px;
+    border: 2px solid #333333;
 }
 #myHeader {
     background-color: #002b80;
     color: black;
     padding: 40px;
     text-align: center;
-    height: 675px;
-    width: 600px;
+    height: 83%;
+    width: 87%;
     box-shadow: 10px 10px 5px;
+    border-radius: 1.1%;    
+    border: 2px solid #333333;
     } 
 span.vert_bar{
         color:#bfbfbf;
 }
 p.p1{
     color:#bfbfbf;
+}
+p.dad{
+    font-size: 12pt;
+    color: #000000;
+    font-family: verdana;
+    background-color: #bfbfbf;
+    padding: 5px;
+    border-radius: 1.1%;
+    border: 2px solid #333333;
+    box-shadow: 5px 5px 5px;
+    margin-left: 35%;
+    margin-top:-18.6%;
+    margin-right:5%;
+
+}
+#pic1{
+    margin-left: 5%;
+    margin-top: 2.5%;
+    border: 2px solid #333333;
+}
+#pic2{
+    margin-left:64%;
+    margin-top: 13%;
+    border: 2px solid #333333;
+}
+p.dad2{
+    font-size: 12pt;
+    color: #000000;
+    font-family: verdana;
+    background-color: #bfbfbf;
+    padding: 5px;
+    border-radius: 1.1%;
+    border: 2px solid #333333;
+    box-shadow: 5px 5px 5px;
+    margin-left: 5%;
+    margin-top:-17%;
+    margin-right:45%;
+
 }
